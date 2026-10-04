@@ -290,7 +290,3 @@ Marks are awarded for the behaviour demonstrated on the TFT screens.
 | `selected_dealer_option` | `0` means Draw; `1` means Stop | Mainboard Task 6 switches it on a short press. Supplied mainboard code resets it to `0` at startup and after stage changes. |
 
 The supplied game functions return `1` if they accept an action and `0` if they reject it. Their rules, card dealing and stage changes are already implemented.
-
-## Submit and demonstrate
-
-Submit your two completed `hw.c` files, a table explaining your UART command format and a table of your controller button choices. Demonstrate one complete round with both controllers connected through their HC-05 pairs. Check that each player can act only in their own turn, blocked action buttons show the red warning, and SW2 handles short and long presses correctly.
