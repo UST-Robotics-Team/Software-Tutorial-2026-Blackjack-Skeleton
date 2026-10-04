@@ -1,0 +1,15 @@
+**/build/
+**/.cache/
+.DS_Store
+*.elf
+*.map
+*.bin
+*.hex
+build
+mx.scratch
+/MainBoard/Drivers
+/Controller/Drivers
+/Controller/cmake
+Controller/.clangd
+MainBoard/.clangd
+/MainBoard/cmake
