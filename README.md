@@ -1,4 +1,10 @@
-# Homework 2: Three-board Blackjack
+# Additional exercise for Tutorial 2
+
+> [!important]
+>
+> The blackjack project is **OPTIONAL** and only serves as a demonstration (and additional practice) for UART and Bluetooth. In this project, you can build a blackjack game with one mainboard as the dealer and two RDC controllers as the players. Connect the boards through UART using four HC-05 modules: two on mainboard and one on each controller. **This assignment will NOT be counted towards your tutorial score**.
+
+If you wish to work on this project, please make sure you have completed [Homework 2](https://github.com/UST-Robotics-Team/Software-Tutorial-2026-Notes/blob/main/tutorial-2-uart-bluetooth/04-homework.md)!
 
 ## Your goal
 
